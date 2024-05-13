@@ -16,3 +16,11 @@ C:\Users\shafi>C:\Users\shafi\AppData\Roaming\Python\Python312\Scripts\uv venv
 ```
  C:\Users\shafi\AppData\Roaming\Python\Python312\Scripts\uv pip install Django
 ```
+
+# start project
+```
+ django-admin startproject learnDjango 
+ cd learnDjango
+ ls
+ python manage.py runserver 
+ ```
